@@ -1,1 +1,4 @@
-# screening-task
+Project Name
+------------
+Counter App
+
